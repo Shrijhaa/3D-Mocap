@@ -1,0 +1,4 @@
+package .json
+
+"copy:hands": "cp -R node_modules/@mediapipe/hands src/assets",   
+"start": "ng serve",
